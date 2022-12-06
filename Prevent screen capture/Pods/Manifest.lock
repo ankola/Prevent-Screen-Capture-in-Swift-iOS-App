@@ -1,0 +1,18 @@
+PODS:
+  - ScreenshotPreventing (1.2.1):
+    - ScreenshotPreventing/Core (= 1.2.1)
+  - ScreenshotPreventing/Core (1.2.1)
+
+DEPENDENCIES:
+  - ScreenshotPreventing
+
+SPEC REPOS:
+  trunk:
+    - ScreenshotPreventing
+
+SPEC CHECKSUMS:
+  ScreenshotPreventing: f377601fc3cb5c061c5b9cce98903bb2c9ec4bd6
+
+PODFILE CHECKSUM: 8e46ca892baccd8a51daf3798687f94ceb6790b2
+
+COCOAPODS: 1.11.3
